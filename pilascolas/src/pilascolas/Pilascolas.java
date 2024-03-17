@@ -11,7 +11,7 @@ import java.util.Stack;
 */
 public class Pilascolas {
 
-    
+     
     public static void main(String[] args) {
         Queue<Integer> qu = new LinkedList<>();
         Stack<Integer> st = new Stack<>();
